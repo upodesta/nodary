@@ -1,0 +1,39 @@
+# Site settings
+title: Hassan and Associates
+email: info@hassan.com.bd
+description: > # this means to ignore newlines until "baseurl:"
+  A Blog Site for Income tax, Company law and Business Service matters
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: hasanassociates
+github_username:  
+facebook_username: hassan.com.bd
+google_play: 
+google_plus_com: # Community link
+google_plus_per:  #Personal link
+facebook_app_id: 
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+more_vert:
+  option1:
+    name: Official Site
+    link: https://hassan.com.bd
+  option2:
+    name: Official Blog
+    link: https://blog.hassan.com.bd
+  option3:
+    name: Diary Blog
+    link: https://diary.hassan.com.bd
+
+disqus: true
+disqus_shortname: 'hassanandassociates'
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: 'UA-66934702-28'
+
+# Build settings
+markdown: kramdown

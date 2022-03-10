@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+gem 'github-pages'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate'
+gem 'somewhere_upodesta'
+gem 'rails'
+gem 'webrick'
+gem 'thor'
+gem 'rspec'
