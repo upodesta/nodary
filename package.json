@@ -1,0 +1,17 @@
+{
+  "name": "handa",
+  "version": "1.0.0",
+  "description": "test on package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.0",
+    "mkdirp": "^1.0.4",
+    "request": "^2.88.2",
+    "underscore": "^1.9.1"
+  }
+}
